@@ -10,7 +10,7 @@ Unlike the built-in Card Aging power-up (which fades stale cards out), this scri
 - The script only changes how cards look. It never saves data.
 
 # Card type colors
-The whole card is recolored, so the card's own card type color is hidden while the script is enabled. Use it on boards where card colors carry no meaning, or set all card types on the board to a single color. Boards that use card colors to mean something (for example, one color per customer) need a different style, such as coloring only part of the card, which this version does not do yet.
+The whole card is recolored, so the card's own card type color is hidden while the script is enabled. Use it on boards where card colors carry no meaning, or set all card types on the board to a single color. Boards that use card colors to mean something (for example, one color per team) need a different style, such as coloring only part of the card, which this version does not do yet.
 
 # Configuration
 Edit the constants at the top of `card-age-color.js`:
